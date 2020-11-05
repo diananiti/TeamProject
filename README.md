@@ -68,4 +68,4 @@ To run DB you need to:
 o	set password to project (if you use other password it should be changed in confiruation file - hibernate.clg.xml),
 o	set port to 5432 which is selected automatically during installation.
 2.	Afterwards open PostgreSQL you need to create new DB called 'Team_Project_Manager',
-3.	Run project uploaded by Tomek and it should generate all tables with proper fields and primary keys.
+3.	Run project and it should generate all tables with proper fields and primary keys.
